@@ -1,6 +1,6 @@
 # wolf_Blog
  叩丁狼博客
-# 感谢xusensun的Personal-Blog项目（https://github.com/xusensun/Personal-Blog）
+# 感谢xusensun的Personal-Blog项目（ https://github.com/xusensun/Personal-Blog ）
 * 参考了该项目，从零到壹重构了该博客项目，逻辑较为简单，有springboot和vue的基础即可实现。<p>
 * 如果对代码茫然，可以参考根目录下的“blog_wolf开发文档.md”来顺着编写代码。<p>
 
